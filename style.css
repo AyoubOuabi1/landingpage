@@ -85,6 +85,24 @@ button:hover
        padding: 20px;
         border-radius: 5px;
     }
+    #main
+    {
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    #BgHero
+    {
+        margin-top: 40px;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #chek
+    {
+        display: inline;
+    }
+    
     
 }
 @media only screen and (max-width: 570px){
@@ -357,4 +375,59 @@ strong {
     height: 100%;
     width:  100%;
 }
- 
+
+/* style abdellah ERRAY */
+/* *********************************************************** */
+body
+{
+    background-color: #FBF7EE;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Karla';
+}
+
+
+.titreA
+{
+
+    color: #13366D;
+    
+}
+
+#main
+{
+    display: flex;
+    
+}
+
+#BgHero
+{
+    width: 400px;
+}
+
+.parChek
+{
+    font-size: 16px;
+}
+
+.sec
+{   padding-top: 10%;
+    padding-right: 10%;
+}
+
+#btn
+{
+    color: aliceblue;
+    background-color: #0B48A8;
+    border-radius: 5px ;
+    border: #0B48A8;
+}
+#btn:hover
+{
+    background-color: #2a5cac;
+}
+
+#chek
+{
+    display: flex;
+}
