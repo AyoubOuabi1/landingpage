@@ -6,10 +6,11 @@ body {
    
     box-sizing: border-box;
 }
-
+section{
+    margin-top: 3rem;
+}
 ul{
-    /* margin-left: auto;
-    margin-right: auto; */
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -53,6 +54,13 @@ button:hover
     justify-content: space-around;
     align-items: center;
 }
+footer{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    width: 100%;
+    display:block;
+    text-align: center;
+ }
 .part2{
     padding-top: 2%;
     display: flex;
@@ -93,6 +101,8 @@ button:hover
     }
     #BgHero
     {
+        width: auto;
+        height: auto;
         margin-top: 40px;
         margin-bottom: 20px;
         margin-left: auto;
@@ -137,11 +147,11 @@ abbr, address, cite, code,
 del, dfn, em, img, ins, kbd, q, samp,
 small, strong, sub, sup, var,
 b, i,
-dl, dt, dd, ol, ul, li,
+dl, dt, dd, ol,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
+ header, hgroup, menu, nav, summary,
 time, mark, audio, video {
     margin:0;
     padding:0;
@@ -157,7 +167,7 @@ body {
 }
 
 article,aside,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section {
+header,hgroup,menu,nav {
     display:block;
 }
 
@@ -222,9 +232,6 @@ hr {
     padding:0;
 }
 
-input, select {
-    vertical-align:middle;
-}
 
 
 
@@ -323,16 +330,8 @@ li {
 a {
     text-decoration: none;
 }
-ul {
-    display: flex;
-    flex-direction: column;
-}
-li  {
-    color: #000;
-    list-style: none;
-    margin-top: 15px;
-    
-}
+
+
 .offer > p {
     color: #adadad;
     margin-top: 10px;
@@ -386,7 +385,14 @@ body
     font-family: 'Karla';
 }
 
-
+#chek{
+    margin-top: 2rem;
+}
+input{
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(126, 120, 120, 0.788);
+ }
 .titreA
 {
 
