@@ -1,10 +1,13 @@
-body {
-    min-width: 300px;
-     background-color: #FBF7EE;
-}
-*{
-   
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+* {
+    font-family: 'Karla', sans-serif;
     box-sizing: border-box;
+}
+body {
+    background-color: #FBF7EE;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 section{
     margin-top: 3rem;
@@ -28,8 +31,8 @@ a{
 }
 button
 {   min-width: 30px;
-      font-size: 14px;
-     font-weight: 400;
+    font-size: 14px;
+    font-weight: 400;
     color: aliceblue;
     background-color: #0B48A8;
     border-radius: 5px ;
@@ -62,17 +65,17 @@ footer{
     text-align: center;
  }
 .part2{
-    padding-top: 2%;
-    display: flex;
-    justify-content: space-around;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 50px;
     
 }
 .carts{
-    width: 18%;
     background-color: #fff;
     border: 3px solid wheat ;
     margin: 2px;
-     padding: 20px;
+    padding: 20px;
     border-radius: 5px;
 }
 .carts>h2{
@@ -80,18 +83,9 @@ footer{
     padding: 0;
 }
 @media (max-width: 900px) {
-
-    .part2{ 
-        justify-items: center;
-        display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(200px,350px));
-        gap: 50px;
-    }
-    .carts{
-        width: 90%;
-         margin: 2px;
-       padding: 20px;
-        border-radius: 5px;
+    .navbar {
+        display:block;
+        text-align:center;
     }
     #main
     {
@@ -115,155 +109,20 @@ footer{
     
     
 }
-@media only screen and (max-width: 570px){
-    .navbar {
-        display:block;
-        text-align:center;
-    }
-}
-@media only screen and (max-width: 360px){
-    .navbar {
-        display:block;
-        text-align:center;
-    }
-}
+
+
 
 
     
 /* Mohamed Amine */
 
 
-/*
-html5doctor.com Reset Stylesheet
-v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com
-Twitter: @rich_clark
-*/
-
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code,
-del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var,
-b, i,
-dl, dt, dd, ol,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
- header, hgroup, menu, nav, summary,
-time, mark, audio, video {
-    margin:0;
-    padding:0;
-    border:0;
-    outline:0;
-    font-size:100%;
-    vertical-align:baseline;
-    background:transparent;
-}
-
-body {
-    line-height:1;
-}
-
-article,aside,details,figcaption,figure,
-header,hgroup,menu,nav {
-    display:block;
-}
-
-nav ul {
-    list-style:none;
-}
-
-blockquote, q {
-    quotes:none;
-}
-
-blockquote:before, blockquote:after,
-q:before, q:after {
-    content:'';
-    content:none;
-}
-
-a {
-    margin:0;
-    padding:0;
-    font-size:100%;
-    vertical-align:baseline;
-    background:transparent;
-}
-
-/* change colours to suit your needs */
-ins {
-    background-color:#ff9;
-    color:#000;
-    text-decoration:none;
-}
-
-/* change colours to suit your needs */
-mark {
-    background-color:#ff9;
-    color:#000;
-    font-style:italic;
-    font-weight:bold;
-}
-
-del {
-    text-decoration: line-through;
-}
-
-abbr[title], dfn[title] {
-    border-bottom:1px dotted;
-    cursor:help;
-}
-
-table {
-    border-collapse:collapse;
-    border-spacing:0;
-}
-
-/* change border colour to suit your needs */
-hr {
-    display:block;
-    height:1px;
-    border:0;  
-    border-top:1px solid #cccccc;
-    margin:1em 0;
-    padding:0;
-}
-
-
-
-
-
-/* _____________________________
-_____________________________
-_____________________________
-_____________________________
-_____________________________
-_____________________________
-_____________________________ */
-
-
-
-
-
-@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
-
-* {
-    font-family: 'Karla', sans-serif;
-}
-body {
-    min-width: 300px;
-    background-color: #fff4ec;
-}
 h1 {
     color: #19396f;
     font-size: 45px;
 }
 .gray {
     color: #adadad;
-    font-size: 15px;
     margin-top: 20px;
     margin-bottom: 20px;
 
@@ -271,12 +130,10 @@ h1 {
 
 .offer {
     background-color: #fbf3e3;
-    display: flex;
-    flex-direction: column;
     border: solid gray 1px;
     border-radius: 10px;
-    width: 180px;
-    height: 270px;
+    width: 260px;
+    height: 390px;
     padding-left: 20px;
     padding-bottom: 10px;
     margin: auto;
@@ -292,13 +149,13 @@ h1 {
     
 }
 .offerBOTTON p{
-    font-size: 14px;
     color: white;
     text-align: center;
     padding-top: 4px;
     padding-bottom: 4px;
     font-weight: 600;
     letter-spacing: 1px;
+    text-align: center;
 }
 div.link {
     border: solid rgb(16,68,164) 1px;
@@ -307,10 +164,7 @@ div.link {
 }
 .offer div a p {
     color: rgb(16,68,164);
-    text-decoration: none;
     text-align: center;
-    padding-top: 11px;
-    font-size: 13px;
     font-weight: bold;
     line-height: 13px;
     
@@ -323,7 +177,6 @@ li {
     height: 40px;
     border-radius:8px;
     margin-top: 16px;
-    box-sizing: border-box;
     
 }
 
@@ -334,12 +187,18 @@ a {
 
 .offer > p {
     color: #adadad;
-    margin-top: 10px;
-    font-size: 18px;
     
 } 
 strong {
     color: #000;
+ }
+.contactUS{
+    position: relative;
+}
+.contactUS strong {
+    color: #000;
+    position:absolute;
+    top: 9.5rem;
 }
 #offer {
     color: #000;
@@ -348,21 +207,21 @@ strong {
     
 }
 .offer ul li p{
-    font-size: 13px;
+    font-size: 16px;
 }
 #line {
-    display: flex;
-    flex-wrap: wrap;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 50px;
     
 }
 #last {
     background-color: #fff4ec;
-    box-sizing: border-box;
-    height: 200px;
-    margin-bottom: 88px;
+    margin-top: 0;
+    height: 230px;
 }
 #last p {
-    font-size: 12px;
     color: #000;
 }
 #last div {
@@ -371,19 +230,12 @@ strong {
     margin-top: 16px;
 }
 #last div img {
-    height: 100%;
-    width:  100%;
+    height: 110px;
+    width:  200px;
 }
 
 /* style abdellah ERRAY */
 /* *********************************************************** */
-body
-{
-    background-color: #FBF7EE;
-    padding-left: 10%;
-    padding-right: 10%;
-    font-family: 'Karla';
-}
 
 #chek{
     margin-top: 2rem;
