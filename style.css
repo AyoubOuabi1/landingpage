@@ -147,19 +147,20 @@ h1 {
     border-radius:40px;
     margin-top: 20px;
     
+    
 }
 .offerBOTTON p{
     color: white;
     text-align: center;
-    padding-top: 4px;
     padding-bottom: 4px;
     font-weight: 600;
     letter-spacing: 1px;
     text-align: center;
+    
 }
 div.link {
     border: solid rgb(16,68,164) 1px;
-    
+    padding-bottom: 45px;
     
 }
 .offer div a p {
@@ -198,12 +199,13 @@ strong {
 .contactUS strong {
     color: #000;
     position:absolute;
-    top: 9.5rem;
+    top: 7.9rem;
 }
 #offer {
     color: #000;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 24px;
+    margin-top: 30px;
     
 }
 .offer ul li p{
@@ -288,4 +290,7 @@ input{
 #chek
 {
     display: flex;
+}
+body {
+    min-width: 430px;
 }
