@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+* {
+    font-family: 'Karla', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: #FBF7EE; 
+}
+.container{
+    display: grid;
+    place-items: center;
+    width: 1fr;
+    border: 1rem solid rgba(255, 253, 253, 0);
+
+}
+
+h1 {
+    color: #19396f;
+    font-size: 45px;
+}
+.loginWithFb{
+    color: #FBF7EE;
+    border-radius: 12px;
+    align-items: center;
+    display:flex;
+    background-color: #3b5998;
+    padding-left: 25px;
+    padding-right: 30px;
+    margin-bottom: 15px;
+    height: 40px;
+    font-size: 13px;
+    flex-wrap: nowrap;
+}
+.loginWithGgle{
+    color: #FBF7EE;
+    flex-wrap: nowrap;
+    border-radius: 12px;
+    align-items: center;
+    display:flex;
+    background-color: #f21717;
+    padding-left: 20px;
+    padding-right: 35px;
+    margin-bottom: 15px;
+    height: 40px;
+    font-size: 14px;
+}
+#ggle{
+    width: 36px;
+    height: 30px;
+    margin-right: 2rem;
+
+}
+h3{
+    margin-right: 3rem;
+}
+#fb{
+    margin-right: 2rem;
+    width: 30px;
+    height: 30px;
+}
+form{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+input{
+    margin-top: 15px;
+}
+#username,#password{
+    padding-left: 15px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(126, 120, 120, 0.788);
+    width: 308px;
+}
+#btn{
+    padding-left: 15px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(102, 91, 91, 0.736);
+    width: 308px
+}
