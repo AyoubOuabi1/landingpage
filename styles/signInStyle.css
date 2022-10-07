@@ -93,13 +93,14 @@ input{
 
 a{
    text-decoration: none;
+   text-align: center;
 }
 
 span a
 {
      color: rgb(0, 95, 177);
 }
-span
+span 
 {
     margin-top: 2%;
     text-align: center;
@@ -107,4 +108,7 @@ span
 span a:hover{
     color: rgb(0, 136, 255);
 }
+
+
+
 
