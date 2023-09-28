@@ -5,18 +5,6 @@
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
 "unity_gameid":"5082535",
-  
-  
-"applovin_inter":"269d73adeea133fb",
-"applovin_native":"5534d47212ed8e80",
-"applovin_banner":"d7e5387a22cc8044",
-"applovin_reward":"a017b8481646d9c2",
-
-  
-"ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"85460dcd",
-"ironsource_banner":"DefaultBanner",
-"ironsource_reward":"DefaultReward",
  
 
 "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
@@ -35,21 +23,33 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
-"yandex_appopen":"demo-appopenad-yandex",
+  "yandex_appopen":"demo-appopenad-yandex",
 
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
 
+  
 
-
-
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
   
-  
 
-
-}
+},
+  "my_data":[
+  {"desc1":"description1 ser"},
+  {"desc2":"description2 ser"},
+  {"desc3":"description3 ser"},
+  {"desc4":"description4 ser"},
+  {"desc5":"description5 ser"},
+  {"desc6":"description5 ser"},
+  {"desc7":"description5 ser"},
+  {"descd":"description d ser"}
+   ]
  
 }
    
