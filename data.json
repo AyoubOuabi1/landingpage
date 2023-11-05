@@ -1,63 +1,92 @@
 {
-  "app": {
-      "name": "Server Guide",
-      "color": "#008577"
-  },
+	"ADS":
+		   {
+		       
+		
+            
+            "start" :"star", 
+            
+             "vd" :"vdg", 
+		       
+		       
+  			"moreapp" :"",
+			"storeurl":"https://play.google.com/store",
+			
+		"API_URL": "http://cinemo-admin.semdcaog.com/api/",
+			
+        "admob_app_id":"",
+
+
+			"banner_main_type":"admob",
+			"inter_main_type":"admob",
+			"native_main_type":"admob",
+			
+			"banner_tips_type":"admob",
+			"inter_tips_type":"admob",
+			"native_tips_type":admob"",
+   
+			"banner_desc_type":"admob",
+			"inter_desc_type":"admob",
+			"native_desc_type":"admob",
+						
+			
+   
+			"ironsource_id":"1b786fd55",
+
+			"unity_id":"",
+			
+			
+			"banner_admob":"ca-app-pub-6320895141288989/6268586729",
+			"interstitial_admob":"ca-app-pub-6320895141288989/1207831734",
+			"native_admob":"ca-app-pub-6320895141288989/8039999249",
+   
+			"banner_admob1":"ca-app-pub-6320895141288989/6268586729",
+			"interstitial_admob1":"ca-app-pub-6320895141288989/1207831734",
+			"native_admob1":"ca-app-pub-6320895141288989/8039999249",
+   
+			"banner_admob2":"ca-app-pub-6320895141288989/6268586729",
+			"interstitial_admob2":"ca-app-pub-6320895141288989/1207831734",
+			"native_admob2":"ca-app-pub-6320895141288989/8039999249",
+			
+			
+			
+			
+   
+		   "facebook_interstitial": "",
+		   "facebook_banner": "",
+		   "facebook_native": "",
+
+           "facebook_interstitial1": "",
+		   "facebook_banner1": "",
+		   "facebook_native1": "",
+
+           "facebook_interstitial2": "",
+		   "facebook_banner2": "",
+		   "facebook_native2": "",
+		   
+
+		   
+		   
+		   
+		   "applovin_interstitial": "6dd9123c30c1a796",
+		   "applovin_banner": "bd6781b1377b15cc",
+		   "applovin_mrec": "bd6781b1377b15cc",
+
+         "applovin_interstitial1": "eb67d7eaf6d90731",
+		   "applovin_banner1": "38884eddcec718ad",
+		   "applovin_mrec1": "38884eddcec718ad",
+
+         "applovin_interstitial2": "3b757ff5dfd1451b",
+		   "applovin_banner2": "bc7f10ee5145a71a",
+		   "applovin_mrec2": "bc7f10ee5145a71a",
+		   
+   "image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p86ruWLPoZgJQ08m04u8LN62ICxx-gtkrw&usqp=CAU",
   
+   
+
+
   
-  "ads":{
-     "ads_type": "ironsource",
-      "bannerId": "ca-app-pub-3940256099942544/6300978111",
-      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-     "ironsource_id": "1896f3d85"
-  },
-  
-  
-  "content": {
-      "page1": {
-        "title": "This is Page1",
-        "url": "https://aquila08.github.io/app-serv/page1.html",
-        "img": "https://www.freepngimg.com/thumb/gun/4-revolver-handgun-png-image-thumb.png"
-      },
-      "page2": {
-        "title": "This is Page2",
-        "url": "https://aquila08.github.io/app-serv/page2.html",
-        "img": "https://www.freepngimg.com/thumb/gun/10-handgun-png-image-thumb.png"
-      },
-      "page3": {
-        "title": "This is Page3",
-        "url": "https://ess-soft.github.io/static-web/page2.html",
-        "img": "https://www.freepngimg.com/thumb/assault%20rifle/1-assault-rifle-png-thumb.png"
-      },
-      "page4": {
-        "title": "This is Page4",
-        "url": "https://ess-soft.github.io/static-web/page1.html",
-        "img": "https://www.freepngimg.com/thumb/gun/6-makarov-russian-handgun-png-image-thumb.png"
-      },
-      "page5": {
-        "title": "This is Page5",
-        "url": "https://aquila08.github.io/app-serv/page2.html",
-        "img": "https://www.freepngimg.com/thumb/gun/9-handgun-png-image-thumb.png"
-      },
-      "page6": {
-        "title": "This is Page6",
-        "url": "https://aquila08.github.io/app-serv/page1.html",
-        "img": "https://www.freepngimg.com/thumb/gun/26-handgun-png-image-thumb.png"
-      },
-      "page7": {
-        "title": "This is Page7",
-        "url": "https://aquila08.github.io/app-serv/page2.html",
-        "img": "https://www.freepngimg.com/thumb/bullets/3-bullets-png-image-thumb.png"
-      },
-      "page8": {
-        "title": "This is Page8",
-        "url": "https://aquila08.github.io/app-serv/page1.html",
-        "img": "https://www.freepngimg.com/thumb/gun/14-makarov-handgun-png-image-thumb.png"
-      },
-      "page9": {
-        "title": "This is Page9",
-        "url": "https://aquila08.github.io/app-serv/page2.html",
-        "img": "https://www.freepngimg.com/thumb/helicopter/10-helicopter-png-image-thumb.png"
-      }
-    }
-}
+   "title1":"ytr Walkthrough"
+	  }
+   
+   }
