@@ -4,7 +4,7 @@
 
   "webViewGame": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
 
-  "adsPerClick": 3,
+  "adsPerClick": 1,
 
   "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInit": "ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,7 @@
     "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "adsType": "admob",
+    "adsType": "unity",
   "applovinBanner": "44f88e6d31b9bf6a",
   "applovinNative": "748cb44ac1ce28af",
   "applovinInit": "7708a40b60712e04",
