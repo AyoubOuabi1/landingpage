@@ -15,7 +15,7 @@
     "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "adsType": "applovin",
+  "adsType": "fb",
         "adsBannerType": "applovin",
     "adsNativeType": "admob",
   "applovinBanner": "9f6993d1d7f4b334",
