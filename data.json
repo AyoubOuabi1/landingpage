@@ -15,12 +15,12 @@
     "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "adsType": "unity",
-        "adsBannerType": "admob",
-    "adsNativeType": "admob",
-  "applovinBanner": "44f88e6d31b9bf6a",
-  "applovinNative": "748cb44ac1ce28af",
-  "applovinInit": "7708a40b60712e04",
+  "adsType": "fb",
+        "adsBannerType": "applovin",
+    "adsNativeType": "applovin",
+  "applovinBanner": "9f6993d1d7f4b334",
+  "applovinNative": "6b90d3ad5d0fbd16",
+  "applovinInit": "af41d81400048f82",
 
 
   "buttonText": "Our WEBSITE",
