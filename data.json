@@ -1,7 +1,7 @@
 {
   "AdsController": {
        
-    "AdNetwork"               : "admob",
+    "AdNetwork"               : "vungle",
     
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
@@ -13,10 +13,10 @@
     "Applovin_RewardAd"      : "a5f235ba1320fb35",
     "Applovin_Native"        : "a5f235ba1320fb35",
 
-    "Vungle_Banner"        : "a5f235ba1320fb35",
-    "Vungle_Interstitial": "d5a67a7b679c9a38",
-    "Vungle_Reward"      : "a5f235ba1320fb35",
-    "Vungle_Native"        : "a5f235ba1320fb35",
+    "Vungle_Banner"        : "BANNER-1447829",
+    "Vungle_Interstitial": "DEFAULT-5567960",
+    "Vungle_Reward"      : "REWARD-5408756",
+    "Vungle_Native"        : "NATIVE-5696673",
 
     "Unity_GameID"           : "4076527",
     "Unity_Banner"           : "BannerAd",
