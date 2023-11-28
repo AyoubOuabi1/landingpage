@@ -1,242 +1,126 @@
 {
-
-
-
-  "webViewGame": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-
-  "adsPerClick": 1,
-  "unityId":"5149029",
-    "ironsourceId":"1896f3d85",
-
-  "admobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "admobInit": "ca-app-pub-3940256099942544/1033173712",
-    "admobNative": "ca-app-pub-3940256099942544/2247696110",
-
-    "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "adsType": "fb",
-        "adsBannerType": "fb",
-    "adsNativeType": "fb",
-  "applovinBanner": "9f6993d1d7f4b334",
-  "applovinNative": "6b90d3ad5d0fbd16",
-  "applovinInit": "af41d81400048f82",
-
-
-  "buttonText": "Our WEBSITE",
-  "buttonVisible" : true,
-  "dynamicUrl" : "https://www.google.co.in/",
-  "dynamicText" : "Welcome to SKIBIDI ! Let the fun begin!",
-  
-  
-  "isMoreAppShow": true,
-    "games": [
-    {
-      
-      "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://i.pinimg.com/originals/03/6c/e8/036ce8fb4678210b70196414fae92105.gif",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-  "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-    }, {
-        "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-        "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-  "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-  "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
-   "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-      
-    }, {
- "gameUrl": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle": "Twisted Tangle",
-      
-       "gameUrl1": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl1": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle1": "Twisted Tangle",
-      
-       "gameUrl2": "aHR0cHM6Ly95b3Vzc2Vmcm91aXJpLmZ1bi9zYXZlc2tpYmlkaS8=",
-      "imageUrl2": "https://staticg.sportskeeda.com/editor/2023/06/c72dc-16878614357780-1920.jpg",
-      "gameTitle2": "Twisted Tangle"
-    }
+  "AdsController": {
+       
+    "AdNetwork"               : "admob",
     
-    ],
-  "moreApps": [
-    {
-  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
-      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
-      "name": "Twisted Tangle"
-      
-    },
-     {
-  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
-      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
-        "name": "Twisted Tangle"
-    },
-     {
-  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
-      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
-        "name": "Twisted Tangle"
-    },
-     {
-  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
-      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
-        "name": "Twisted Tangle"
-    }
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     
+    "Applovin_Banner"        : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
+    "Applovin_RewardAd"      : "a5f235ba1320fb35",
+    "Applovin_Native"        : "a5f235ba1320fb35",
+
+    "Vungle_Banner"        : "a5f235ba1320fb35",
+    "Vungle_Interstitial": "d5a67a7b679c9a38",
+    "Vungle_Reward"      : "a5f235ba1320fb35",
+    "Vungle_Native"        : "a5f235ba1320fb35",
+
+    "Unity_GameID"           : "4076527",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    "Unity_RewardAd"         : "rewardedVideo",
+    
+    "IronSourceKey"          : "1197d7c85"
+  },
+  
+  "Skins" :[
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
+          "locked" : false
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/-little-fires--21240825.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/-little-fires--21240825.png",
+          "locked" : false
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/14/superman-21236510.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/14/superman-21236510.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/batman-21232388.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/batman-21232388.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/04/patrik-batman-21204990.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/04/patrik-batman-21204990.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/magma-lava-spirit-21233659.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/magma-lava-spirit-21233659.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/creeper-girl-21241079.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/creeper-girl-21241079.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/bee-person--21241075.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/bee-person--21241075.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/blue-boy-21240831.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/blue-boy-21240831.png",
+          "locked" : true
+      }
+      
+      
+      ],
+  
+  "AppsPromote": [
+    {
+      "name": "Minecraft PE skyblock",
+      "packageName": "com.andiqwer.skyblock_maps",
+      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Houses Maps",
+      "packageName": "com.andiqwer.house_maps",
+      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Guns Mods",
+      "packageName": "com.AndiQwer.GunMods",
+      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Cars Mods",
+      "packageName": "com.andiqwer.car_mods",
+      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+      "download": "+50 Million"
+    },
+    {
+      "name": "Block Craft 3D",
+      "packageName": "com.fungames.blockcraft",
+      "icon": "https://play-lh.googleusercontent.com/YOtXpivwnbn07ufEnrcX6W--s4FOK6qVMmxvhKkYZhQZzgjxAzy10DgvwlHhYzbHaF1Q",
+      "download": "+100 Million"
+    }
   ]
 }
