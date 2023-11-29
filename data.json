@@ -1,7 +1,7 @@
 {
   "AdsController": {
        
-    "AdNetwork"               : "vungle",
+    "AdNetwork"               : "admob",
     
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
