@@ -2,7 +2,7 @@
   "AdsController": {
 
     "showInterActivity"       : true,
-    "AdNetworBanner"           : "vungle",
+    "AdNetworkBanner"           : "vungle",
     "AdNetworkNative"          : "admob",
     "AdNetworkReward"          : "vungle",
     "AdNetworkInter"           : "admob",
