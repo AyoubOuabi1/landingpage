@@ -1,131 +1,23 @@
 {
-  "AdsController": {
+   "ads":{
+     "onsignal_app_id":"503bc974–5aac-4ab5-a953-afa40f7fc2d5",
+      "ShowAds":true,
+      "ShowLoadingAds":true,
+      "ClickCount":1,
 
-    "showInterActivity"       : true,
-    "AdNetworkBanner"           : "vungle",
-    "AdNetworkNative"          : "admob",
-    "AdNetworkReward"          : "vungle",
-    "AdNetworkInter"           : "admob",
+      "huawei_inter":"testb4znbuh3n2",
+      "huawei_banner":"testw6vs28auh3",
+      "huawei_native":"testu7m3hc4gvm",
+     
+      "yandex_banner":"demo-banner-yandex",
+      "yandex_inter":"demo-interstitial-yandex",
+      "yandex_native":"demo-native-video-yandex",
+      "yandex_appopen":"demo-appopenad-yandex",
 
-    
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    
-    "Applovin_Banner"        : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
-    "Applovin_RewardAd"      : "a5f235ba1320fb35",
-    "Applovin_Native"        : "a5f235ba1320fb35",
-
-    "Vungle_Banner"        : "BANNER-1447829",
-    "Vungle_Interstitial": "DEFAULT-5567960",
-    "Vungle_Reward"      : "REWARD-5408756",
-    "Vungle_Native"        : "NATIVE-5696673",
-
-    "Unity_GameID"           : "4076527",
-    "Unity_Banner"           : "BannerAd",
-    "Unity_InterstitialAd"   : "InterstitialAd",
-    "Unity_RewardAd"         : "rewardedVideo",
-    
-    "IronSourceKey"          : "1197d7c85"
-  },
+     
+      "PriorityBanner":"yandex",
+      "PriorityNative":"yandex",
+      "priorityInterstitial":"yandex"
   
-  "Skins" :[
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
-          "locked" : false
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
-          "locked" : false
-      },
-       {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
-          "locked" : false
-      },
-       {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
-          "locked" : false
-      },
-       {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/-little-fires--21240825.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/-little-fires--21240825.png",
-          "locked" : false
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/14/superman-21236510.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/14/superman-21236510.png",
-          "locked" : true
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/batman-21232388.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/batman-21232388.png",
-          "locked" : true
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/04/patrik-batman-21204990.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/04/patrik-batman-21204990.png",
-          "locked" : true
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/magma-lava-spirit-21233659.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/magma-lava-spirit-21233659.png",
-          "locked" : true
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/creeper-girl-21241079.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/creeper-girl-21241079.png",
-          "locked" : true
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/bee-person--21241075.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/bee-person--21241075.png",
-          "locked" : true
-      },
-      {
-          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/blue-boy-21240831.png",
-          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/blue-boy-21240831.png",
-          "locked" : true
-      }
-      
-      
-      ],
-  
-  "AppsPromote": [
-    {
-      "name": "Minecraft PE skyblock",
-      "packageName": "com.andiqwer.skyblock_maps",
-      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
-      "download": "+100 K"
-    },
-    {
-      "name": "Houses Maps",
-      "packageName": "com.andiqwer.house_maps",
-      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
-      "download": "+500 K"
-    },
-    {
-      "name": "Guns Mods",
-      "packageName": "com.AndiQwer.GunMods",
-      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
-      "download": "+1 Million"
-    },
-    {
-      "name": "Cars Mods",
-      "packageName": "com.andiqwer.car_mods",
-      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
-      "download": "+50 Million"
-    },
-    {
-      "name": "Block Craft 3D",
-      "packageName": "com.fungames.blockcraft",
-      "icon": "https://play-lh.googleusercontent.com/YOtXpivwnbn07ufEnrcX6W--s4FOK6qVMmxvhKkYZhQZzgjxAzy10DgvwlHhYzbHaF1Q",
-      "download": "+100 Million"
-    }
-  ]
+   }
 }
