@@ -1,23 +1,48 @@
-{
-   "ads":{
-     "onsignal_app_id":"503bc974–5aac-4ab5-a953-afa40f7fc2d5",
-      "ShowAds":true,
-      "ShowLoadingAds":true,
-      "ClickCount":1,
+[
+  {
+    "title": "Movie 1",
+    "description": "Description of Movie 1",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk3MDYzNTM1NzQx/the-texas-chain-saw-massacre.webp"
+  },
+  {
+    "title": "Movie 2",
+    "description": "Description of Movie 2",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk2NzkxODg5MDIx/parasite2.webp"
+  },
+  {
+    "title": "Movie 3",
+    "description": "Description of Movie 3",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk3MDY2MjIyNzE3/forbidden-planet-movie-poster.webp"
+  },
+  {
+    "title": "Movie 4",
+    "description": "Description of Movie 4",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk2NzkwMTE5NTQ5/rosemarys-baby.webp"
+  },
+  {
+    "title": "Movie 5",
+    "description": "Description of Movie 5",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk2NzkzMzMwODEz/mean-streets.webp"
+  },
+  {
+    "title": "Movie 6",
+    "description": "Description of Movie 6",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk3MDY1NTY3MzU3/usa-the-little-mermaid---in-studio-preview.webp"
+  },
+  {
+    "title": "Movie 7",
+    "description": "Description of Movie 7",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk2NzkwNzc0OTA5/the-godfather.webp"
+  },
+  {
+    "title": "Movie 8",
+    "description": "Description of Movie 8",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk2Nzk1NDkzNTAx/vertigo-poster.webp"
+  },
+  {
+    "title": "Movie 9",
+    "description": "Description of Movie 9",
+    "imageUrl": "https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTkwNTgxMjk2Nzk0NjQxNTMz/star-wars.webp"
+  }
+]
 
-      "huawei_inter":"testb4znbuh3n2",
-      "huawei_banner":"testw6vs28auh3",
-      "huawei_native":"testu7m3hc4gvm",
-     
-      "yandex_banner":"demo-banner-yandex",
-      "yandex_inter":"demo-interstitial-yandex",
-      "yandex_native":"demo-native-video-yandex",
-      "yandex_appopen":"demo-appopenad-yandex",
-
-     
-      "PriorityBanner":"yandex",
-      "PriorityNative":"yandex",
-      "priorityInterstitial":"yandex"
-  
-   }
-}
