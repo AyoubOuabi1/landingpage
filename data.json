@@ -357,9 +357,953 @@
           }
 
         ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
       }
     ],
     "Drama": [
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
+        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://example.com/episode1.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              },
+              {
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://example.com/episode2.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
@@ -545,6 +1489,156 @@
   },
   "movies": {
     "TopMovies": [
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
+      {
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
+        "bannerUrl": "https://example.com/inception-banner.jpg",
+        "coverUrl": "https://example.com/inception-cover.jpg",
+        "videoUrl": "https://example.com/inception.mp4",
+        "language": "English",
+        "stars": 5,
+        "rating": "PG-13",
+        "actors": [
+          {"name": "Leonardo DiCaprio", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a6d324a4b6e27431aac0d6e5a479087f.jpg"},
+          {"name": "Joseph Gordon-Levitt", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/afdbe33c28c3b2a182c0bef0dd33d71f.jpg"},
+          {"name": "Ellen Page", "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/c1adee782a72fb79d5fa7b6e7d8a18dc.jpg"}
+        ]
+      },
       {
         "title": "Inception",
         "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
