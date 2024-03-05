@@ -29,7 +29,7 @@
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
                 "bannerUrl" : "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/1f1f6e2b3767d295fa6e08405a8937ef.jpg",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
                 "episodeNumber": 2,
@@ -1494,7 +1494,7 @@
         "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
         "bannerUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9880001_v_v13_ae.jpg",
         "coverUrl": "https://ia600200.us.archive.org/10/items/8956bfecf-96ff-8b-334f-4ea-4601f-97ca-8/8956bfecf96ff8b334f4ea4601f97ca8.jpg",
-        "videoUrl": "https://example.com/inception.mp4",
+        "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4",
         "language": "English",
         "stars": 5,
         "rating": "PG-13",
@@ -1509,7 +1509,7 @@
         "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
         "bannerUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9880001_v_v13_ae.jpg",
         "coverUrl": "https://ia600200.us.archive.org/10/items/8956bfecf-96ff-8b-334f-4ea-4601f-97ca-8/8956bfecf96ff8b334f4ea4601f97ca8.jpg",
-        "videoUrl": "https://example.com/inception.mp4",
+        "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4",
         "language": "English",
         "stars": 5,
         "rating": "PG-13",
@@ -1524,7 +1524,7 @@
         "description": "A thief who enters the dreams of others to steal their secrets from their subconscious.",
         "bannerUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9880001_v_v13_ae.jpg",
         "coverUrl": "https://ia600200.us.archive.org/10/items/8956bfecf-96ff-8b-334f-4ea-4601f-97ca-8/8956bfecf96ff8b334f4ea4601f97ca8.jpg",
-        "videoUrl": "https://example.com/inception.mp4",
+        "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4",
         "language": "English",
         "stars": 5,
         "rating": "PG-13",
