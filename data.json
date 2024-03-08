@@ -4,20 +4,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/04802c8e6cad178473c9be3f21be626a.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0280d152c499c00fe3a13a5eab0b754d.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0fcb2b8e8d68ff286273f9a13e5ed23c.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/115f497caab9dc25a107da55c9df6a83.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -26,36 +26,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "bannerUrl" : "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/1f1f6e2b3767d295fa6e08405a8937ef.jpg",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -87,35 +91,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -125,20 +134,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/383d85a7580bc466fe2514ab69af9932.jpg",
-        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/3abc436c1ddd8fe24339f04ba972cfd7.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/3b0205bdd9434666874570b3509c5a89.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/438d6c0b4503cdd1947ab446a7be1eb6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/4412e5bd55029366aae8e13a3bb5a2f4.png"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -147,35 +156,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -185,20 +199,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/44ecca12484ac6a1f34c08770eb0096a.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/4ebcddb88dda22a92b3b3ea6634b28c8.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/50762fa4802bb1463b13b69d1ea5bc3b.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/51edf1e657725046467b3be47195fc0d.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/546dc461e94eed56f59ccda5cceff9c8.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -207,35 +221,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -245,20 +264,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/5be081cb77fa0430426f80f0ab5cbe20.jpg",
-        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6029e667c56e76df0c25383526d4d1de.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/60abfd349844eb32e1d41d0f2f7d7a95.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/66319765afd2f7932fe03b745992f9a4.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/68ea63b9b7d3e7d63d7e7b55402d7ccf.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -267,60 +286,261 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
 
         ]
       }
+
     ],
     "Comedy": [
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -329,35 +549,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -367,20 +592,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -389,35 +614,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -427,20 +657,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -449,35 +679,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -487,20 +722,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -509,35 +744,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -547,20 +787,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -569,35 +809,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -607,20 +852,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -629,35 +874,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -667,20 +917,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -689,35 +939,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -727,20 +982,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -749,35 +1004,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -787,20 +1047,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -809,35 +1069,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -847,20 +1112,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -869,35 +1134,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -907,20 +1177,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800203.us.archive.org/28/items/73512a-7acc-527a-1d-309d-20155c-2b-7641/73512a7acc527a1d309d20155c2b7641.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cafa4b1b5f6a922556b22f152b1f62a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/6cc0b6b5c0268c9606988142ca5f7baa.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7a2239a455f272b08362c29f926f6c9a.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/7de81365593bd030e206a363d22f79e0.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -929,35 +1199,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -969,57 +1244,62 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
           {
-            "seasonNumber": 1,
             "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1029,58 +1309,62 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
-
           {
             "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1090,20 +1374,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -1112,35 +1396,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1150,20 +1439,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -1172,35 +1461,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1210,20 +1504,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -1232,35 +1526,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1270,20 +1569,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -1292,35 +1591,40 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1330,20 +1634,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/80c664c0c6954f22a581f63da01cbd2f.jpg",
-        "coverUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/83e232025ba5dffd130c7513ada765df.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8623b6446ea946a75c7a0707c562aba6.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/86781ff0e816f1be28ebc279ac124076.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/867eebb1da77577c6616a2416b329f2f.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -1352,35 +1656,235 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1392,58 +1896,712 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/8ed7cc8bfe4ea96a04c2ba9659126818.jpg",
-        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/951683850c1b0150a82c570eb9306304.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/97d260328d98888ffa5408bb6c7faed8.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/9a7bb0bef6047ef8d82fdec8b567c495.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/9dddff2a9bbcc6706fe1922cdcc5a1a9.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
           {
             "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
-
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "description": "A group of kids investigates supernatural occurrences in their small town.",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
+        "actors": [
+          {
+            "name": "Millie Bobby Brown",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
+          },
+          {
+            "name": "Finn Wolfhard",
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
+          },
+          {
+            "name": "Winona Ryder",
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
+          }
+        ],
+        "seasons": [
+          {
+            "seasonBanner" : " https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/0a393631b556b45f4f76d3d9982636c7.jpg",
+            "seasonNumber": 1,
+            "episodes": [
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 1,
+                "title": "Chapter One: The Vanishing of Will Byers",
+                "description": "Description of Episode 1",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
+              },
+              {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Weirdo on Maple Street",
+                "description": "Description of Episode 2",
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
@@ -1455,20 +2613,20 @@
       {
         "title": "Stranger Things",
         "description": "A group of kids investigates supernatural occurrences in their small town.",
-        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/9eccd156735a19c64d65dc6a9933890e.jpg",
-        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a2beaac6bd36deec75dae05285a0394a.jpg",
+        "bannerUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/20d730fff0fc10a251b9f73da23aa3c1.jpg",
+        "coverUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2122fab13a55efb6a2dcf5f3bf12dc21.jpg",
         "actors": [
           {
             "name": "Millie Bobby Brown",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/a3ad0756806977739ab96b48bb46072f.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/27730720ce7efb2ba1df88c32db027c9.jpg"
           },
           {
             "name": "Finn Wolfhard",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/b665b74aae9d1e1958ea8a220ea3be18.jpg"
+            "imageUrl": "https://ia600206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/2978aee56d220aacfcb9971a62855987.jpg"
           },
           {
             "name": "Winona Ryder",
-            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/bcd7c27f683e8618bab9a38bd8efe3fb.jpg"
+            "imageUrl": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg"
           }
         ],
         "seasons": [
@@ -1477,18 +2635,21 @@
             "seasonNumber": 1,
             "episodes": [
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 1,
                 "title": "Chapter One: The Vanishing of Will Byers",
                 "description": "Description of Episode 1",
-                "videoUrl": "https://example.com/episode1.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
@@ -1496,16 +2657,18 @@
               },
 
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               },
               {
+                "episodeBanner": "https://ia800206.us.archive.org/0/items/4412e-5bd-55029366aae-8e-13a-3bb-5a-2f-4/31efa9b56327fed416bf13a417ec3769.jpg",
                 "episodeNumber": 2,
                 "title": "Chapter Two: The Weirdo on Maple Street",
                 "description": "Description of Episode 2",
-                "videoUrl": "https://example.com/episode2.mp4"
+                "videoUrl": "https://dramahousee.s3.eu-west-3.amazonaws.com/episode_videos/dc865365-7f07-4f7e-b48b-26340b0d04f5.mp4"
               }
             ]
           }
