@@ -1,0 +1,13 @@
+{
+  "ADS": {
+    "banner_type": "unity",
+    "inter_type": "unity",
+    "native_type": "unity",
+    "reward_type": "unity",
+    "banner_id": "Banner_Android",
+    "interstitial_id": "Interstitial_Android",
+    "reward_id": "Rewarded_Android",
+    "native_id": "nativeIdValue",
+    "unity_id": "5149029"
+  }
+}
